@@ -3,7 +3,8 @@
 Run `npm install` to install dependencies.
 
 Config your database in `/config/config.js`
-`
+
+``
 "development": {
     "username": "root",
     "password": null,
@@ -11,7 +12,7 @@ Config your database in `/config/config.js`
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
-  `
+  ``
 
 Run `sequelize db:migrate` init server.
 
