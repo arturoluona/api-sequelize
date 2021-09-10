@@ -19,6 +19,7 @@ Run `sequelize db:migrate` init server.
 Run `npm start` init server.
 
 Endpoints
+
 `http://localhost:3000/user` methods `post` `patch` `delete` `get`
 
 `http://localhost:3000/municipality` methods `post` `patch` `delete` `get`
